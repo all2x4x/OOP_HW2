@@ -59,4 +59,14 @@ public class Human extends Actor {
         return name;
     }
 
+    public void add(Human actor) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'add'");
+    }
+
+    public void remove(int indexOfActor) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'remove'");
+    }
+
 }
